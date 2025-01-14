@@ -5,7 +5,7 @@ wins = 0
 losses = 0
 ties = 0
 
-pattern_to_win = {'p':'r', 'r':'s', 'scissors':'p'}
+pattern_to_win = {'p':'r', 'r':'s', 's':'p'}
 
 
 
